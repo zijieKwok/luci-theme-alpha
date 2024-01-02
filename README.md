@@ -9,4 +9,13 @@
 
 ![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/ss3.png)
 
+![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/mobile1.jpg)
+
+![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/mobile2.jpg)
+
+![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/mobile3.jpg)
+
+![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/mobile4.jpg)
+
+![image](https://raw.githubusercontent.com/zijieKwok/luci-theme-alpha/master/mobile5.jpg)
 </p>
